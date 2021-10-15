@@ -1,0 +1,41 @@
+Last week I listened to the podcast episode 42 of Internet of Things (IoT), hosted by Stacey Higginbotham (https://staceyoniot.com/). It was about the Internet of Things (IoT). Frankly, I have been intrigued by the idea of IoT. Before I wrote this post, I had not much thought about what IoT is, how they work, what we are going to do with these things, why we should care, and its relation to Cybersecurity. I think I have a better sense of it now. Still reading up on it, but thought will share my quick notes.
+
+The Internet of Things (IoT) broadly refers to devices and equipment that are readable, recognizable, locatable, addressable, and controllable via the internet. This incorporates physical objects communicating with each other, including machine to machine and machine to people. It encompasses everything from edge computing devices to home appliances, from wearable technology to cars.
+
+The podcast in itself was like a consumer report of intelligent devices in the market. The hosts talked about a range of IoT devices like NEST, WIFI water sensor, Quirky egg minder, and an Underarmour box of all things smart to give an idea about the range of products. The internet is created by people, people, and people, and it's about connecting them. On the other hand, the IoT is about connecting things to the internet. This means that things are sharing experiences (or, more specifically, data) with other things. So, one of the examples that I understood most was from a Ted talk I listened to soon after the podcast, went like this: once the smartphone bracelet woke him up in the morning, a thermostat was set in a manner that soon after, it switched off and let the cool fresh breeze come inside the house. This triggered the light switches, and they were switched on and so on.
+
+Cyber threat and IoT
+
+IoT represents the melding of the physical world and the digital world. By 2025, it is expected that there will be more than 30 billion IoT connections, almost 4 IoT devices per person on average, and that also amounts to trillions of sensors connecting and interacting on these devices (https://www.forbes.com/sites/chuckbrooks/2021/02/07/cybersecurity-threats-the-daunting-challenge-of-securing-the-internet-of-things/?sh=45e164a05d50). According to The McKinsey Global Institute, 127 new devices connect to the internet every second.
+
+Each IoT device represents an attack surface that can be an avenue into your data for hackers. Protecting such an enormous attack surface is no easy task, especially when there are so many devices' varying types and security standards. The overall perspective from a security operations perspective on those billions of IoT devices is that anything connected to the internet can be hacked. A Comcast report found that the average household is hit with 104 threats every month. A new report found that the most vulnerable devices include laptops, computers, smartphones and tablets, networked cameras and storage devices, and streaming video devices. 
+
+Unlike laptops and smartphones, most IoT devices possess fewer processing and storage capabilities. This makes it challenging to employ anti-virus, firewalls, and other security applications that could help protect them. Financial motives typically drive cybercriminals. That means they want information they can sell and data that can be used to blackmail people, hardware that can be hijacked, or computing power they can harness. Smart TVs might provide all these opportunities, making them appealing targets. The hacker can potentially use an easily hackable IoT and hack into your wi-fi network, compromising all the data your home receives and sends every day.
+
+There's an arsenal of tools that attackers can combine and use to wreak havoc on a victim's digital – and actual – life. Malware, social engineering, vulnerabilities, wrong or weak settings, and physical attacks against intelligent TVs in public spaces rank among the most common techniques used to gain control of smart TVs.
+
+There is a growing rate of IoT attacks, especially since remote work and remote offices have become the norm with the pandemic's start. It is essential to know and understand the threat landscape. Following types of attacks have been identified as primary threats to IoT:
+
+·      Denial of Service
+
+·      Malware
+
+·      Passive Wiretapping
+
+·      Structured query language injection (SQLi controls a web application's database server)
+
+·      Wardriving (search for wi-fi networks by a person in a moving vehicle)
+
+·      Zero-day exploits - Until the vulnerability is mitigated, hackers can exploit it to adversely affect programs, data, additional computers, or a network
+
+Crisis of Humanity or Augmentation of Humanity
+
+However, I have more significant concerns other than data breaches. If these IoTs can communicate, share information, collaborate, can they also control and think for you? Can they override your needs? Can they become a menace in the true sense of the word?
+
+Will such intelligent IoT systems make all human workforce redundant? Will human beings become meaningless in the future of work? Will AI systems entirely replace human beings, or will the IoT enhance human intelligence and empower us to solve the most pressing issues of our times in a more satisfying way than we would ever have dreamed of?
+
+Follow up reading and writing:
+
+(i) IoT and Artificial Intelligence
+
+(ii) Industrial IoT (IIoT)
